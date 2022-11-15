@@ -1,7 +1,7 @@
 export const SITE = {
 	name: 'AstroWind',
 
-	origin: 'https://astrowind.vercel.app',
+	origin: 'https://blog.toolbox.wtf',
 	basePathname: '/',
 	trailingSlash: false,
 
@@ -9,7 +9,7 @@ export const SITE = {
 	description: '🚀 AstroWind is a free and ready to start template to make your website using Astro and Tailwind CSS.',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
-	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
+	googleSiteVerificationId: '',
 };
 
 export const BLOG = {
